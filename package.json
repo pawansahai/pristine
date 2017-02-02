@@ -1,0 +1,30 @@
+{
+  "name": "pristine",
+  "version": "1.0.0",
+  "description": "basic crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawansahai/pristine.git"
+  },
+  "keywords": [
+    "pristine"
+  ],
+  "author": "Pawan Priyadarshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawansahai/pristine/issues"
+  },
+  "homepage": "https://github.com/pawansahai/pristine#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "ejs": "^2.5.5",
+    "mongodb": "^2.2.22"
+  }
+}
